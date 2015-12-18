@@ -1,6 +1,6 @@
 # Selectish
 
-Selectish is another way to style <select>s. It's far from perfect, but give it a go.
+Selectish is another way to style select elements. It's far from perfect, but give it a go.
 
 ## Requirements
 
