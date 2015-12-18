@@ -1,6 +1,8 @@
-# Selectish
+# Selectish.js
 
-Selectish is another way to style select elements. It's far from perfect, but give it a go.
+Selectish.js is another way to style select elements. It's far from perfect, but give it a go.
+
+[Demo](http://codepen.io/jarilehtinen/pen/GoZGPb)
 
 ## Requirements
 
